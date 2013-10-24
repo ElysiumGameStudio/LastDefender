@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game\Game.csproj", "{D27B6311-0D2E-4FDA-BBCE-E16A0EA9ACF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameContent", "Game\GameContent\GameContent.contentproj", "{7100B4E5-242E-4A34-99CE-97265BBE49BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animation2D", "Animation2D\Animation2D.csproj", "{15BB2084-2E76-44D6-9076-E542E2182852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPSCounter", "FPSCounter\FPSCounter.csproj", "{94BA1475-40AB-4302-AFD4-6493B8550AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D27B6311-0D2E-4FDA-BBCE-E16A0EA9ACF5}.Debug|x86.ActiveCfg = Debug|x86
+		{D27B6311-0D2E-4FDA-BBCE-E16A0EA9ACF5}.Debug|x86.Build.0 = Debug|x86
+		{D27B6311-0D2E-4FDA-BBCE-E16A0EA9ACF5}.Release|x86.ActiveCfg = Release|x86
+		{D27B6311-0D2E-4FDA-BBCE-E16A0EA9ACF5}.Release|x86.Build.0 = Release|x86
+		{7100B4E5-242E-4A34-99CE-97265BBE49BB}.Debug|x86.ActiveCfg = Debug|x86
+		{7100B4E5-242E-4A34-99CE-97265BBE49BB}.Release|x86.ActiveCfg = Release|x86
+		{15BB2084-2E76-44D6-9076-E542E2182852}.Debug|x86.ActiveCfg = Debug|x86
+		{15BB2084-2E76-44D6-9076-E542E2182852}.Debug|x86.Build.0 = Debug|x86
+		{15BB2084-2E76-44D6-9076-E542E2182852}.Release|x86.ActiveCfg = Release|x86
+		{15BB2084-2E76-44D6-9076-E542E2182852}.Release|x86.Build.0 = Release|x86
+		{94BA1475-40AB-4302-AFD4-6493B8550AAA}.Debug|x86.ActiveCfg = Debug|x86
+		{94BA1475-40AB-4302-AFD4-6493B8550AAA}.Debug|x86.Build.0 = Debug|x86
+		{94BA1475-40AB-4302-AFD4-6493B8550AAA}.Release|x86.ActiveCfg = Release|x86
+		{94BA1475-40AB-4302-AFD4-6493B8550AAA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
